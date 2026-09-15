@@ -3,21 +3,24 @@
 
 ## Sobre mí 🚀
 
-Soy estudiante del programa de **Estadística**, apasionada por el análisis de datos, la programación y la búsqueda de soluciones mediante herramientas estadísticas y computacionales.
+Soy estudiante del programa de **Estadística**, apasionada por el análisis de datos, la programación y la enseñanza de las matemáticas.
 
-Me interesa transformar datos en información útil para la toma de decisiones, aprender nuevas tecnologías y participar en proyectos donde pueda aplicar el pensamiento analítico, la modelación estadística y la programación.
+Me interesa transformar datos en información útil para la toma de decisiones mediante herramientas estadísticas y computacionales, así como desarrollar estrategias que permitan comunicar y enseñar conceptos matemáticos de manera clara y significativa.
 
-Me gusta enfrentar problemas complejos, adquirir nuevos conocimientos y colaborar con equipos interdisciplinarios para desarrollar soluciones innovadoras basadas en datos.
+Actualmente participo en el programa **Minas Contigo**, como estudiante acompañante en la asignatura de **Cálculo Diferencial**, donde apoyo procesos de aprendizaje y fortalecimiento de habilidades matemáticas en estudiantes.
+
+Me gusta enfrentar problemas complejos, aprender nuevas herramientas, compartir conocimientos y colaborar en proyectos interdisciplinarios que integren la estadística, la programación y la educación matemática.
 
 ---
 
 ## Actualmente 🌱
 
-- 🌱 **Aprendiendo:** R, análisis estadístico avanzado y visualización de datos.
-- 🔭 **Trabajando en:** proyectos académicos relacionados con estadística, programación y análisis de información.
-- 📊 **Intereses:** ciencia de datos, estadística aplicada, modelamiento, análisis exploratorio de datos y enseñanza de las matemáticas.
-- 💻 **Herramientas:** Python, LaTeX y herramientas para análisis estadístico.
-- 🌍 **Idiomas:** Español y lenguajes de programación como Python y LaTeX.
+- 🌱 **Aprendiendo:** R, análisis estadístico avanzado, visualización de datos y nuevas estrategias para la enseñanza de las matemáticas.
+- 🔭 **Trabajando en:** proyectos académicos relacionados con estadística, programación, análisis de información y acompañamiento académico en matemáticas.
+- 📊 **Intereses:** ciencia de datos, estadística aplicada, modelamiento, análisis exploratorio de datos, educación matemática y divulgación del conocimiento.
+- 👩‍🏫 **Experiencia académica:** acompañamiento en procesos de aprendizaje de Cálculo Diferencial mediante el programa **Minas Contigo**.
+- 💻 **Herramientas:** Python, LaTeX, R y herramientas para análisis estadístico y elaboración de material académico.
+- 🌍 **Idiomas:** Español y lenguajes de programación como Python, R y LaTeX.
 - 📫 **Cómo contactarme:** gonzalezmetautecatalina@gmail.com
 
 ---
@@ -32,26 +35,51 @@ Me gusta enfrentar problemas complejos, adquirir nuevos conocimientos y colabora
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![Mathematics](https://img.shields.io/badge/Mathematics-FF6F00?style=for-the-badge&logo=wolfram&logoColor=white)
+
+---
+
+## Áreas de interés 📚
+
+📈 **Estadística y análisis de datos**  
+Aplicación de métodos estadísticos para explorar información, identificar patrones y generar conocimiento.
+
+💻 **Programación científica**  
+Uso de herramientas computacionales para resolver problemas, automatizar procesos y desarrollar análisis reproducibles.
+
+📐 **Enseñanza de las matemáticas**  
+Diseño de estrategias de aprendizaje para fortalecer la comprensión de conceptos matemáticos y acompañar estudiantes en su formación académica.
+
+👩‍🏫 **Educación y acompañamiento académico**  
+Participación en espacios de apoyo educativo orientados al aprendizaje colaborativo y la construcción del conocimiento.
+
 ---
 
 ## Proyectos destacados 💻
 
 ### 📊 Análisis estadístico de datos
 
-Desarrollo de proyectos académicos enfocados en la exploración, análisis e interpretación de datos utilizando herramientas estadísticas y computacionales.
+Desarrollo de proyectos académicos enfocados en la exploración, análisis e interpretación de datos mediante herramientas estadísticas y computacionales.
 
 **Habilidades aplicadas:**
 
 - Análisis exploratorio de datos.
 - Visualización estadística.
-- Programación en Python.
-- Documentación científica con LaTeX.
+- Programación en Python y R.
+- Elaboración de informes científicos con LaTeX.
 
 ---
 
-### 📈 Modelamiento y solución de problemas
+### 📚 Enseñanza y aprendizaje de las matemáticas
 
-Aplicación de métodos estadísticos para comprender fenómenos, encontrar patrones y generar soluciones basadas en evidencia.
+Participación en procesos de acompañamiento académico mediante el programa **Minas Contigo**, fortaleciendo el aprendizaje de conceptos fundamentales de **Cálculo Diferencial**.
+
+**Experiencias desarrolladas:**
+
+- Explicación y orientación de conceptos matemáticos.
+- Resolución guiada de problemas.
+- Creación de estrategias para mejorar la comprensión del cálculo.
+- Fomento del aprendizaje colaborativo.
 
 ---
 
@@ -61,4 +89,4 @@ Aplicación de métodos estadísticos para comprender fenómenos, encontrar patr
 
 ---
 
-⭐ *"Los datos cuentan historias; la estadística nos ayuda a comprenderlas."*
+⭐ *"Las matemáticas no solo se calculan; también se comprenden, se comunican y se enseñan."*
