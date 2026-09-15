@@ -80,8 +80,7 @@ Participación en procesos de acompañamiento académico mediante el programa **
 - Resolución guiada de problemas.
 - Creación de estrategias para mejorar la comprensión del cálculo.
 - Fomento del aprendizaje colaborativo.
-
----
+  
 ---
 
 ## 📚 Áreas que estoy construyendo
@@ -107,6 +106,8 @@ Educación Matemática
 ├── Comunicación de conceptos matemáticos
 └── Divulgación del conocimiento
 
+
+---
 
 ## Conecta conmigo 📬
 
