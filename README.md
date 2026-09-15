@@ -85,7 +85,6 @@ Participación en procesos de acompañamiento académico mediante el programa **
 
 ## 📚 Áreas que estoy construyendo
 
-```text
 Estadística
 ├── Análisis exploratorio de datos
 ├── Inferencia estadística
