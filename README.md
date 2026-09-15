@@ -82,6 +82,31 @@ Participación en procesos de acompañamiento académico mediante el programa **
 - Fomento del aprendizaje colaborativo.
 
 ---
+---
+
+## 📚 Áreas que estoy construyendo
+
+```text
+Estadística
+├── Análisis exploratorio de datos
+├── Inferencia estadística
+├── Muestreo
+├── Regresión
+├── Probabilidad
+└── Modelamiento estadístico
+
+Programación
+├── R
+├── Python
+└── LaTeX
+
+Educación Matemática
+├── Enseñanza del cálculo diferencial
+├── Acompañamiento académico
+├── Estrategias de aprendizaje matemático
+├── Comunicación de conceptos matemáticos
+└── Divulgación del conocimiento
+
 
 ## Conecta conmigo 📬
 
