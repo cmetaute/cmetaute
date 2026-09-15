@@ -84,7 +84,7 @@ Participación en procesos de acompañamiento académico mediante el programa **
 ---
 
 ## 📚 Áreas que estoy construyendo
-
+```text
 Estadística
 ├── Análisis exploratorio de datos
 ├── Inferencia estadística
@@ -104,7 +104,7 @@ Educación Matemática
 ├── Estrategias de aprendizaje matemático
 ├── Comunicación de conceptos matemáticos
 └── Divulgación del conocimiento
-
+```
 
 ---
 
